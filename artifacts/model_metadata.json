@@ -1,0 +1,22 @@
+{
+    "DATA": {
+        "NUM_TRAIN_ROWS": 788277,
+        "NUM_TEST_ROWS": 38304,
+        "TRAIN_MAX_YEAR": 2018,
+        "TEST_MAX_YEAR": 2020
+    },
+    "EVAL_METRICS": {
+        "TRAIN_MAPE": 0.06279472569184753,
+        "TEST_MAPE": 0.05762537169215347
+    },
+    "FEATURE_IMPORTANCES": {
+        "year": 34.99353082104697,
+        "floor_area_sqm": 21.301285871083522,
+        "flat_type": 15.35972667958419,
+        "town": 14.34363956356595,
+        "street_name": 4.257388854216565,
+        "flat_model": 3.4304417643812912,
+        "remaining_lease": 3.4003294538866666,
+        "storey": 2.9136569922349365
+    }
+}

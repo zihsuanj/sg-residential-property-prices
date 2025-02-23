@@ -1,0 +1,15 @@
+{
+    "DATA_DIR": "data/Kaggle_HDB",
+    "COL_DTYPES": {
+        "month": "str",
+        "town": "str",
+        "flat_type": "str",
+        "block": "str",
+        "street_name": "str",
+        "storey_range": "str",
+        "floor_area_sqm": "float",
+        "flat_model": "str",
+        "lease_commence_date": "int",
+        "resale_price": "float"
+    }
+}
